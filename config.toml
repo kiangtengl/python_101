@@ -1,4 +1,4 @@
-baseurl = "https://python101.kiangtengl.com"
+baseurl = "https://python101.kiangtengl.com/"
 languageCode = "en-us"
 title = "Python 101"
 theme = "temple"
