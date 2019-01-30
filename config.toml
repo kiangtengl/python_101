@@ -1,0 +1,28 @@
+baseurl = "https://python101.kiangtengl.com"
+languageCode = "en-us"
+title = "Python 101"
+theme = "temple"
+
+# If true, Chroma will highlight GitHub-style code fences in addition to
+# highlight shortcodes
+pygmentsCodeFences = true
+
+[params]
+  # Enables the topmenu, which pulls from categories
+  # topmenu = "categories"
+
+  # Enables custom date format (optional, the default is MM-DD-YYYY)
+  # For reference to date and time templating, see:
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateformatpretty = "02 Jan"
+
+# Builds a list page for each category given
+[taxonomies]
+  #tag = "tags"
+  #category = "categories"
+
+[author]
+  name = "Lim Kiang Teng"
+  github = "kiangtengl"
+  email = "limkiangteng@gic.com.sg"
+  
