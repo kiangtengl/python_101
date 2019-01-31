@@ -3,19 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://python101.kiangtengl.com/posts/lesson-2/</loc>
+    <lastmod>2019-01-31T03:34:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://python101.kiangtengl.com/about/</loc>
+    <lastmod>2019-01-30T18:40:32+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://python101.kiangtengl.com/posts/lesson_1/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://python101.kiangtengl.com/posts/opening-jupyter-notebook/</loc>
+    <lastmod>2019-01-28T11:23:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://python101.kiangtengl.com/posts/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-31T03:34:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://python101.kiangtengl.com/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-31T03:34:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   

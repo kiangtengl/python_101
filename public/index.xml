@@ -8,18 +8,49 @@
     <language>en-us</language>
     <managingEditor>limkiangteng@gic.com.sg (Lim Kiang Teng)</managingEditor>
     <webMaster>limkiangteng@gic.com.sg (Lim Kiang Teng)</webMaster>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 03:34:59 +0000</lastBuildDate>
     
 	<atom:link href="https://python101.kiangtengl.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting Started with Hugo</title>
+      <title>Lesson 2</title>
+      <link>https://python101.kiangtengl.com/posts/lesson-2/</link>
+      <pubDate>Thu, 31 Jan 2019 03:34:59 +0000</pubDate>
+      <author>limkiangteng@gic.com.sg (Lim Kiang Teng)</author>
+      <guid>https://python101.kiangtengl.com/posts/lesson-2/</guid>
+      <description>Lesson 2 Notes</description>
+    </item>
+    
+    <item>
+      <title>Course Description</title>
+      <link>https://python101.kiangtengl.com/about/</link>
+      <pubDate>Wed, 30 Jan 2019 18:40:32 +0800</pubDate>
+      <author>limkiangteng@gic.com.sg (Lim Kiang Teng)</author>
+      <guid>https://python101.kiangtengl.com/about/</guid>
+      <description>Overview Unlike most 101 courses, this course is designed soley for the purpose of getting someone pplying Python to their line of work. Key learning objectives include
+ Working with Tabular Data (Pandas) Manipulating Excel Files (xlwings) -  As such, it skimps on the fundamentals and teaches the bare minimum needed for one to get &amp;ldquo;dangerous with python&amp;rdquo;
+For those more interested in understanding more about python, do enroll in this free course on edX (money is needed for certification however.</description>
+    </item>
+    
+    <item>
+      <title>Lesson 1</title>
       <link>https://python101.kiangtengl.com/posts/lesson_1/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Jan 2019 16:00:00 +0000</pubDate>
       <author>limkiangteng@gic.com.sg (Lim Kiang Teng)</author>
       <guid>https://python101.kiangtengl.com/posts/lesson_1/</guid>
-      <description></description>
+      <description>Lesson Materials:
+Lesson 1
+Lesson 1 Filled In</description>
+    </item>
+    
+    <item>
+      <title>Opening Jupyter Notebook</title>
+      <link>https://python101.kiangtengl.com/posts/opening-jupyter-notebook/</link>
+      <pubDate>Mon, 28 Jan 2019 11:23:00 +0000</pubDate>
+      <author>limkiangteng@gic.com.sg (Lim Kiang Teng)</author>
+      <guid>https://python101.kiangtengl.com/posts/opening-jupyter-notebook/</guid>
+      <description> If you have not done so, set Chrome as your default Browser   Open Anaconda Navigator   Select either Jupyter Lab or Jupyter Notebook   You will end up a page like this   This page is a file browser that shows the files you have on your computer. Navigate to where you saved your notebook and open it.  </description>
     </item>
     
   </channel>

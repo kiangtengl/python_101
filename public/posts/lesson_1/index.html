@@ -3,15 +3,15 @@
 <head>
   
   <meta charset="utf-8">
-  <title>Getting Started with Hugo</title>
-  <meta name="description" content="Getting Started with Hugo">
+  <title>Lesson 1</title>
+  <meta name="description" content="Lesson 1">
   <meta name="author" content="Lim Kiang Teng">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <noscript>
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://python101.kiangtengl.comcss/fonts.css">
+    <link rel="stylesheet" href="https://python101.kiangtengl.com/css/fonts.css">
   </noscript>
   
   
@@ -330,7 +330,7 @@ a {
   
   <link rel="shortcut icon" 
    
-    href="https://python101.kiangtengl.comimg/favicon.ico"
+    href="https://python101.kiangtengl.com/img/favicon.ico"
   
   type="image/x-icon">
 
@@ -340,7 +340,7 @@ a {
   <meta name="generator" content="Hugo 0.46" />
 
   
-  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -349,11 +349,11 @@ a {
     <div class="pure-u-11-12 pure-u-md-7-12">
         <div class="desktop pure-menu pure-menu-horizontal nav-menu">
             
-            <a href="https://python101.kiangtengl.com" class="site-title pure-menu-heading">Python 101</a>
+            <a href="https://python101.kiangtengl.com/" class="site-title pure-menu-heading">Python 101</a>
             <ul class="pure-menu-list pull-right">
 				
                 <li class="pure-menu-item">
-                    <a href="https://python101.kiangtengl.comabout/" class="pure-menu-link">About</a>
+                    <a href="https://python101.kiangtengl.com/about/" class="pure-menu-link">About</a>
                 </li>
             </ul>
         </div>
@@ -364,7 +364,7 @@ a {
                 
 				
                 <li class="pure-menu-item">
-                    <a href="https://python101.kiangtengl.comabout" class="pure-menu-link">About</a>
+                    <a href="https://python101.kiangtengl.com/about" class="pure-menu-link">About</a>
                 </li>
             </ul>
         </div>
@@ -380,30 +380,28 @@ a {
 
       <div class="post-title">
         <p class="footnote">
-          <time datetime="2014-04-02 00:00:00 &#43;0000 UTC">
+          <time datetime="2019-01-28 16:00:00 &#43;0000 UTC">
             
-              02 Apr
+              28 Jan
             
           </time>
         
         
         |
         
-        
-        tags: [ <a href="https://python101.kiangtengl.comtags/go">go</a> <a href="https://python101.kiangtengl.comtags/golang">golang</a> <a href="https://python101.kiangtengl.comtags/hugo">hugo</a> <a href="https://python101.kiangtengl.comtags/development">development</a> ]
-        
-
-        
-        categories: [ <a href="https://python101.kiangtengl.comcategories/development">Development</a> <a href="https://python101.kiangtengl.comcategories/golang">golang</a> ]
-        
 
         
         </p>
-        <h1>Getting Started with Hugo</h1>
+        <h1>Lesson 1</h1>
       </div>
 
       <div class="post-content">
-        
+        <p>Lesson Materials:</p>
+
+<p><a href="https://github.com/kiangtengl/python_101/releases/download/lesson_1/GIC_Lesson_1.ipynb">Lesson 1</a></p>
+
+<p><a href="https://github.com/kiangtengl/python_101/releases/download/lesson_1/GIC_Lesson_1.ipynb">Lesson 1 Filled In</a></p>
+
       </div>
     </div>
   </div>
@@ -462,6 +460,18 @@ a {
   var a=document.querySelector("#toggle-btn"),b=document.querySelector("#toggle-content");a.addEventListener("click",function(){""==b.style.display?(b.style.display="none",a.innerHTML="☰"):(b.style.display="",a.innerHTML="X")});</script>
 
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
 
