@@ -6,7 +6,7 @@ tags:
 categories:
   - python
 ---
-1. If you have not done so, set Chrome as your default Browser
+1. If you have not done so, set Chrome as your default Browser. For people on Windows 7, follow the guide [here](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en) instead
 
 ![Set chrome as default](https://thumbs.gfycat.com/EvilVengefulBee-small.gif)
 
