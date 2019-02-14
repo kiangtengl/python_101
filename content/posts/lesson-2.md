@@ -6,4 +6,4 @@ tags:
 categories:
   - python
 ---
-[Lesson 1b Notes](https://github.com/kiangtengl/python_101/releases/download/lesson_2/GIC_Lesson_1b.ipynb)
+[Lesson 1b Notes](https://github.com/kiangtengl/python_101/releases/download/lesson_1b/GIC_Lesson_1b.ipynb)
